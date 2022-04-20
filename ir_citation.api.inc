@@ -8,7 +8,7 @@
  *  Use the lower-level functions for more detailed work at your own risk.
  *  They may conflict with use of this API.
  * @author
- *  William Panting
+ *  Jordan
  */
 
 /**
